@@ -1,8 +1,8 @@
 <p align="center">
-  SURCO SEGUROS PUBLIC API
+  SURCO SEGUROS API DOCUMENTATION
 </p>
 
-<p align="center"><em>This documentation was created based on the <a href="https://lord.github.io/slate">Slate</a> project. In order to see the full API Docs please visit <a href="https://docs.surcoseguros.com.ar">the Surco Seguros API Docs Website</a> </em>.</p>
+<p align="center"><em>Visit the full API Docs from <a href="https://docs.surcoseguros.com.ar">the Surco Seguros API Docs Website</a> </em>.</p>
 
 Getting Started with the project
 ------------------------------
@@ -33,9 +33,9 @@ vagrant up
 
 You can now see the docs at http://localhost:4567. Whoa! That was fast!
 
-Now that the project is all set up on your machine, you'll probably want to learn more about [editing the project markdown](https://github.com/lord/the project/wiki/Markdown-Syntax), or [how to publish your docs](https://github.com/lord/the project/wiki/Deploying-the project).
+Now that the project is all set up on your machine, you'll probably want to learn more about [editing the markdown](https://github.com/lord/slate/wiki/Markdown-Syntax), or [how to publish your docs](https://github.com/lord/slate/wiki/Deploying-the project).
 
-If you'd prefer to use Docker, instructions are available [in the wiki](https://github.com/lord/the project/wiki/Docker).
+If you'd prefer to use Docker, instructions are available [in the wiki](https://github.com/lord/slate/wiki/Docker).
 
 ### Note on JavaScript Runtime
 
@@ -45,3 +45,5 @@ Need Help? Found a bug?
 --------------------
 
 [Submit an issue](https://github.com/surcoseguros/api-docs/issues) to the GitHub Project if you need any help. And, of course, feel free to submit pull requests with bug fixes or changes.
+
+<p><em>This documentation was created based on the <a href="https://lord.github.io/slate">Slate</a> open source project.</p>

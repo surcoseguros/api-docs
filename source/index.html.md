@@ -14,11 +14,20 @@ toc_footers:
 
 includes:
   - authentication
+  - authorizations
   - checkout
+  - companies
   - customers
   - payments
+  - persons
+  - phoneChecker
   - plans
+  - regions
+  - salesUnits
   - subscriptions
+  - users
+  - vat
+  - vendors
   - errors
 
 search: true

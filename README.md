@@ -37,6 +37,9 @@ Now that the project is all set up on your machine, you'll probably want to lear
 
 If you'd prefer to use Docker, instructions are available [in the wiki](https://github.com/lord/slate/wiki/Docker).
 
+### How to Build to statics
+Execute: bundle exec middleman build --clean
+
 ### Note on JavaScript Runtime
 
 For those who don't have JavaScript runtime or are experiencing JavaScript runtime issues with ExecJS, it is recommended to add the [rubyracer gem](https://github.com/cowboyd/therubyracer) to your gemfile and run `bundle` again.
